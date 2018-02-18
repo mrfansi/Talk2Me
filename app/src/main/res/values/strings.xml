@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Talk2Me</string>
+    <string name="talk2me">Talk2Me</string>
+    <string name="resultView">resultView</string>
+</resources>
